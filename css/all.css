@@ -2,7 +2,6 @@ html {
     font-size: 14px;
 }
 
-
 .main {
-    /* min-height: calc(100vh - (49px + 29px +42px +14px)); */
+    min-height: calc(100vh - (49px + 29px +42px +14px));
 }
